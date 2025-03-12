@@ -1,0 +1,3 @@
+/home/azurubuntu/repos/21-eikonal-21-eikonal/build/CMakeFiles/rebuild_cache.dir
+/home/azurubuntu/repos/21-eikonal-21-eikonal/build/CMakeFiles/edit_cache.dir
+/home/azurubuntu/repos/21-eikonal-21-eikonal/build/CMakeFiles/main.dir
