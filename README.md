@@ -1,5 +1,6 @@
 # Eikonal
-Eikonal handson
+
+**⚠️** The project baseline was given by Professor Luca Formaggia(@lformaggia)
 
 **Students**:
 - Capodanno Mario
@@ -10,7 +11,7 @@ Eikonal handson
 
 ## Introduction
 An Eikonal equation is a non-linear first-order partial differential equation 
-that is encountered in problems of wave propagation. <br>
+encountered in wave propagation problems. <br>
 
 An Eikonal equation is one of the form:
 
