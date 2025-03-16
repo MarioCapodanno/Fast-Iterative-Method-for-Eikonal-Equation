@@ -1,6 +1,6 @@
 # Eikonal
 
-**⚠️** The project baseline was given by Professor Luca Formaggia(@lformaggia)
+Initial code for this project was provided by Professor Luca Formaggia @lformaggia
 
 **Students**:
 - Capodanno Mario
